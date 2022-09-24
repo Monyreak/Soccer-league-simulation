@@ -1,0 +1,255 @@
+Alphonse Areola
+Goalkeeper
+26
+France
+24
+Thibaut Courtois
+Goalkeeper
+27
+Belgian
+5
+Daniel Carvajal Ramos
+Defender
+27
+Spain
+4.42
+Éder Gabriel Militão
+Defender
+21
+Brazil
+3
+Sergio Ramos García
+Defender
+33
+Spain
+8
+Marcelo Vieira da Silva
+Defender
+31
+Brazil
+5.2
+Ferland Mendy
+Defender
+24
+France
+3.9
+Toni Kroos
+Midfielder
+29
+Germany
+6
+James Rodríguez
+Midfielder
+28
+Columbia
+7
+Luka Modric
+Midfielder
+34
+Croatia
+9
+Isco
+Midfielder
+27
+Spain
+4
+Brahim Díaz
+Striker
+20
+Spain
+7.9
+Karim Benzema
+Striker
+31
+France
+8
+Gareth Bale
+Striker
+30
+Wales
+25
+Mariano Díaz Mejía
+Striker
+26
+Spain
+9
+Ter Stegen
+Goalkeeper
+27
+Germany
+3.1
+Norberto Murara Neto
+Goalkeeper
+30
+Brazil
+3.2
+Sergi Roberto
+Defender
+27
+Spain
+5
+Samuel Umtiti
+Defender
+26
+Cameroon
+5.2
+Clément Lenglet
+Defender
+24
+France
+2.7
+Jordi Alba
+Defender
+30
+Spain
+6.4
+Gerard Piqué
+Defender
+32
+Spain
+4.8
+Arturo Vidal
+Midfielder
+32
+Chile
+4.9
+Ivan Rakitic
+Midfielder
+30
+Switzerland
+5.5
+Arthur Melo
+Midfielder
+23
+Brazil
+3.2
+Frenkie de Jong
+Midfielder
+22
+Netherland
+10
+Leo Messi
+Striker
+32
+Argentina
+50
+Luis Suárez
+Striker
+32
+Uruguay
+11.4
+Ousmane Dembélé
+Striker
+22
+France
+12
+Antoine Griezmann
+Striker
+28
+France
+21
+Adrián San Miguel
+Goalkeeper
+32
+Spain
+2.17
+Andy Lonergan
+Goalkeeper
+36
+England
+5.5
+Andy Robertson
+Defender
+25
+Scotland
+11
+Sepp van den Berg
+Defender
+17
+Netherland
+6.24
+Joel Matip
+Defender
+28
+Germany
+5.2
+Joe Gomez
+Defender
+22
+England
+3.8
+Ki Jana Hoever
+Defender
+16
+Netherland
+2.8
+Fabinho
+Midfielder
+26
+Brazil
+6.24
+Georginio Wijnaldum
+Midfielder
+29
+Netherland
+4.3
+James Milner
+Midfielder
+33
+England
+4.7
+Jordan Henderson
+Midfielder
+29
+England
+5.2
+Naby Keita
+Midfielder
+24
+Guinea
+4.6
+Mohamed Salah
+Striker
+27
+Egypt
+13.2
+Roberto Firmino
+Striker
+28
+Brazil
+9.4
+Divock Origi
+Striker
+24
+Belguim
+4.3
+Sadio Mané
+Striker
+27
+Senegal
+5.2
+Kimtaiyo Mech
+Midfielder
+19
+Cambodia
+75
+Kimlong hor
+Striker
+19
+Cambodia
+100
+Monyreak Kit
+Defender
+19
+Cambodia
+50
+Keisuke Honda
+Striker
+33
+Japan
+2
+Neymar da Silva
+Striker
+27
+Brazil
+18
